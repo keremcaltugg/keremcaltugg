@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-## 🔭 I’m currently working as a Data Analyst for Analytica House with an intermediate Data Science background. 
-## 🌱 I’m currently learning Data Engineering skills including developing ETL pipelines, being familiar with Cloud Tech. Together with that, I'm also improving my SQL skills on Hackerrank to be able to write complex queries on Google BigQuery. 
-## 😄 Pronouns: Always eager to learn, fond of teamwork and tends to be versatile.
+##### 🔭 I’m currently working as a Data Analyst for Analytica House with an intermediate Data Science background. 
+##### 🌱 I’m currently learning Data Engineering skills including developing ETL pipelines, being familiar with Cloud Tech. Together with that, I'm also improving my SQL skills on Hackerrank to be able to write complex queries on Google BigQuery. 
+##### 😄 Pronouns: Always eager to learn, fond of teamwork and tends to be versatile.
 
 
 <!--
